@@ -4,8 +4,8 @@ import keyboard
 
 SB = 1 
 shot = 0 # Value that determines if the target has found
-start = (528, 331) # Left/Top grid value
-end = (1141, 704) # Right/Bottom grid value
+start = () # Left/Top grid value
+end = () # Right/Bottom grid value
 rgb_value = (255, 219, 195) #rgb value of target
 
 x,y = pag.position()
