@@ -14,3 +14,5 @@ x,y = pag.position()
 print((x,y))
 
 while commenting out the entire 'while' function
+
+![](tutorial.gif)
