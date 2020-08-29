@@ -1,7 +1,8 @@
 # Aimbot
 
 Simple Aimbot developed using Python.
-Download
+
+Download to import the followings
 
 pip install pyautogui
 pip install keyboard
