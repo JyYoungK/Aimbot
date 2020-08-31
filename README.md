@@ -2,10 +2,13 @@
 
 Simple Aimbot developed using Python.
 
-Download to import the followings
+This aimbot can play the aim game from http://www.aimbooster.com/ 24/7 without any mistake.
 
-1. pip install pyautogui
-2. pip install keyboard
+Once you download my code, import the followings if you don't have it in your computer
+
+For PC                                For Mac
+1. pip install pyautogui              python3 -m pip3 install pyautogui
+2. pip install keyboard               pip3 install keyboard
 
 Then change 'start' and 'end' value depending on your screen size.
 You can simply obtain these values by running
