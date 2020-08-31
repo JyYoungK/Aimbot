@@ -1,16 +1,18 @@
 import pyautogui as pag
 from PIL import ImageGrab
 import keyboard
+from time import sleep
 
 SB = 1 
 shot = 0 # Value that determines if the target has found
-start = () # Left/Top grid value
-end = () # Right/Bottom grid value
+start = (670, 446) # Left/Top grid value
+end = (1248, 847) # Right/Bottom grid value
 rgb_value = (255, 219, 195) #rgb value of target
 
 x,y = pag.position()
 print((x,y))
 
+sleep(2)
 
 ##while SB == 1:
 ##    screen = ImageGrab.grab() # Screen capture
