@@ -21,5 +21,6 @@ while commenting out the entire 'while' function
 The game does not end until you make a mistake 3 times. However, my Aimbot will not make any mistakes, therefore the game will run forever.
 To stop the Aimbot, press F3. :)
 
-The result
+☆ ★ ☆ ★ ☆ ★ ☆ ★ The result ☆ ★ ☆ ★ ☆ ★ ☆ ★
+
 ![](aimbot.gif)
